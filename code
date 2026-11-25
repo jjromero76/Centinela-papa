@@ -1,0 +1,4 @@
+mkdir -p centinela-papa/data/metadata \
+         centinela-papa/fase_1_linea_base_mlp/{notebooks,docs,figures,models} \
+         centinela-papa/fase_2_multimodal_cnn_rnn/{notebooks,docs,figures,models} \
+         centinela-papa/fase_3_despliegue_y_escalamiento/{app,docs,tests}
